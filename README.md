@@ -1,7 +1,7 @@
 
 
 # 👋 Hi, I'm AbdurRehman  
-🎓 Final Year Electrical Communication Engineer | 🤖 Deep Learning & Medical AI Enthusiast  
+Electrical Communication Engineer | 🤖 Deep Learning & Medical AI Enthusiast  
 
 ---
 
